@@ -2,10 +2,10 @@
 
 //Datos de ingresos habilitados
 const ingresosFree = [
-    { id: 101, usuario:'PROGRAMADOR', password: 101000, menu:'all'},
-    { id: 102, usuario:'Empresa', password: 101001, menu:'limited'},
-    { id: 103, usuario:'Referente', password: 101002, menu:'limited'},
-    { id: 104, usuario:'Coordinador', password: 101003, menu:'limited'},
+    { id: 101, password: 101000},
+    { id: 102, password: 101001},
+    { id: 103, password: 101002},
+    { id: 104, password: 101003},
 ]
 
 //Menu
